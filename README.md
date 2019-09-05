@@ -6,3 +6,5 @@ Class project from SFU Geometric Modelling course
 •	Implemented Loop and Butterfly subdivision schemes to apply surface smoothing and generate higher detailed models
 
 •	Implemented quadric-based edge decimation with multiple-choice algorithm to generate lower detailed models while preserving the original structure
+
+Requires nanogui lib
