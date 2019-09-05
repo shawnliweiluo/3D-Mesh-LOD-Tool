@@ -8,7 +8,7 @@ Class project from SFU Geometric Modelling course
 •	Implemented quadric-based edge decimation with multiple-choice algorithm to generate lower detailed models while preserving the original structure
 
 
-Download and add nanogui to project_folder/lib/nanogui
+Download and add nanogui to project_folder/lib/nanogui (see CMakeLists.txt)
 
 cmake
 
