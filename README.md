@@ -17,7 +17,7 @@ make
 
 ./mcaq
 
-Based on the following two papers: 
+Edge decimation is implemented based on the following two papers: 
 
 Surface Simplification Using Quadric Error Metrics https://www.cs.cmu.edu/~./garland/Papers/quadrics.pdf
 
