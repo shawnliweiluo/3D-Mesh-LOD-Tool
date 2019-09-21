@@ -16,3 +16,7 @@ cmake
 make
 
 ./mcaq
+
+Based on the following two papers: 
+Surface Simplification Using Quadric Error Metrics https://www.cs.cmu.edu/~./garland/Papers/quadrics.pdf
+Fast Mesh Decimation by Multiple-Choice Techniques https://www.graphics.rwth-aachen.de/media/papers/mcd_vmv021.pdf
